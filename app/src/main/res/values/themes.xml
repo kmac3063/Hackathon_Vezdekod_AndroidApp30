@@ -3,4 +3,8 @@
     <style name="Theme.AndroidApp" parent="Theme.AppCompat.Light.NoActionBar">
 <!--        <color name="ColorPrimary">#BBBBBB</color>-->
     </style>
+    <style name="searchTextHighlight">
+        <item name="android:background">#FFF735</item>
+        <item name="android:textStyle">bold</item>
+    </style>
 </resources>
