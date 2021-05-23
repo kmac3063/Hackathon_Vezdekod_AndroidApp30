@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Инциденты</string>
+    <string name="error_date">Дата выявления</string>
+    <string name="finish_date">Крайний срок</string>
+    <string name="general_info">Общая информация</string>
+    <string name="registrar">Регистратор</string>
+    <string name="crit_level">Уровень критичности</string>
+    <string name="system">Система</string>
+    <string name="status">Статус</string>
+    <string name="deviation">Отклонение</string>
+    <string name="time_length">Протяжённость</string>
+</resources>
